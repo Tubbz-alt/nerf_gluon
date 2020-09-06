@@ -1,0 +1,7 @@
+tqdm==4.32.1
+numpy==1.16.5
+opencv_python==4.1.2.30
+mxnet_cu102==2.0.0b20200720
+imageio==2.9.0
+mxnet==1.7.0.post1
+PyYAML==5.3.1
